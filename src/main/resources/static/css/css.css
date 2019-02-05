@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+* {
+	padding: 0px;
+	border: 0px;
+	list-style: none;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #4d4d4d;
+}
+
+h1 {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+
+header {
+    padding: 20px;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
